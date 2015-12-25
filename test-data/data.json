@@ -1,0 +1,27 @@
+{
+    "global-variables": [],
+    "global-function": [],
+    "functions": [],
+    "variables": [],
+    "objects": [
+        {
+            "fields": [
+                {
+                    "name": "value",
+                    "type": "String"
+                }
+            ],
+            "methods": [
+                {
+                    "name": "checkErrors",
+                    "args": [
+                        {
+                            "name": "response",
+                            "type": "Object"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
